@@ -19,3 +19,5 @@ No terminal, dentro da pasta principal do projeto, execute:
 `& 'C:\Users\vinicius_simones\.local\bin\python3.15.exe' -m testes.teste_usuario`
 
 & 'C:\Users\vinicius_simones\.local\bin\python3.15.exe' -m testes.teste_controle_acesso
+
+& 'C:\Users\vinicius_simones\.local\bin\python3.15.exe' -m testes.teste_solicitacao
