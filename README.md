@@ -14,7 +14,8 @@ Projeto desenvolvido em Python para gerenciar produtos, estoque, usu√°rios, pap√
 
 No terminal, dentro da pasta principal do projeto, execute:
 
-`py -m testes.teste_almoxarifado`
+`& 'C:\Users\vinicius_simones\.local\bin\python3.15.exe' -m testes.teste_almoxarifado`
 
-`py -m testes.teste_usuario`
+`& 'C:\Users\vinicius_simones\.local\bin\python3.15.exe' -m testes.teste_usuario`
 
+& 'C:\Users\vinicius_simones\.local\bin\python3.15.exe' -m testes.teste_controle_acesso
